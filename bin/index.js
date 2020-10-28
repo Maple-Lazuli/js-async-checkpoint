@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 //load required modules/packages
 //in console run this to add to the local repository
     //npm install fs wait async
